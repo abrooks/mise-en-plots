@@ -16,3 +16,7 @@ etc.).
 This project aims to automatically take conventional recipes and turn them into
 plots (DAGs, directed acyclic graphs) showing the flow of ingredients across
 their preparation into the resulting meal.
+
+
+
+compiling dinner · GitHub https://gist.github.com/breadchris/5877d1ab8381526bb81b551ffd5d1768
